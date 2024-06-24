@@ -1,0 +1,13 @@
+{% extends 'HomeTaskDJ02/base.html' %}
+
+{% block title %}Главная{% endblock %}
+
+{% block content %}
+    <div class="jumbotron">
+        <h1 class="display-4">Добро пожаловать на наш сайт!</h1>
+        <p class="lead">Мы рады приветствовать вас на нашем сайте, созданном с использованием Django и Bootstrap.</p>
+        <hr class="my-4">
+        <p>Узнайте больше о нас, наших услугах и как с нами связаться.</p>
+        <a class="btn btn-primary btn-lg" href="{% url 'about' %}" role="button">Узнать больше</a>
+    </div>
+{% endblock %}

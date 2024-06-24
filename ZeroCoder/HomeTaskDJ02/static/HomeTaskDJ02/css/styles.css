@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 2rem 1rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron .btn {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.jumbotron .btn:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
