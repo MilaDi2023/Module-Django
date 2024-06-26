@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .flex-container {
+            display: flex;
+            align-items: center; /* Вертикальное выравнивание по центру */
+            margin: 0; /* Убираем внешние отступы */
+            padding: 0; /* Убираем внутренние отступы */
+        }
+        .flex-container h4,
+        .flex-container p {
+            margin: 0; /* Убираем внешние отступы */
+            margin-right: 5px;
+            padding: 0; /* Убираем внутренние отступы */
+        }
+        .flex-container + .flex-container {
+            margin-top: 10px; /* Добавляем небольшой отступ между контейнерами */
+        }
+        .title-container {
+            width: 100%; /* Длина на весь экран */
+            background-color: #f0f0f0; /* Светло-серый фон */
+            color: #000; /* Черный цвет шрифта */
+            padding: 2px 0; /* Внутренние отступы сверху и снизу */
+            text-align: left; /* Выровнять текст по левому краю */
+            padding-left: 0px; /* Добавить отступ слева для улучшения внешнего вида */
+        }
+    </style>
+</head>
+<body>
+<h1> Новости по нашему обучению Python с помощью ChatGPT </h1>
+{% for new in news %}
+    <div>
+        <div class="title-container">
+            <h3>{{ new.title }}</h3>
+        </div>
+        <p><b>{{ new.short_description }}</b></p>
+        <p><em>{{ new.text }}</em></p>
+        <div class="flex-container">
+            <h4>Автор:   </h4> <p>{{ new.author }}</p>
+        </div>
+        <div class="flex-container">
+            <h4>Дата публикации:   </h4> <p>{{ new.pub_date }}</p>
+        </div>
+        <hr>
+    </div>
+{% endfor %}
+</body>
+</html>

@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56afcb3b-6be2-4ed9-a0ec-80671e5b0803" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/static/HomeTaskDJ02/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ02/static/lessonDJ02/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ02/static/lessonDJ02/img/django-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ02/templates/lessonDJ02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ02/templates/lessonDJ02/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ02/templates/lessonDJ02/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ02/templates/lessonDJ02/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ02/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ03/templates/lessonDJ03/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/lessonDJ03/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" afterDir="false" />
@@ -31,57 +17,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/index.html">
+        <entry file="file://$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="25" />
+            <state relative-caret-position="430">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#647#679#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/menu.html">
+        <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="174">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/services.html">
+        <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/templates/lessonDJ03/news.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="435">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/about.html">
+        <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="435">
+              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/contact.html">
+        <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/migrations/0002_news_post_hometask_alter_news_post_options.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
-            </state>
+            <state relative-caret-position="-87" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/footer.html">
+        <entry file="file://$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="426">
+              <caret line="119" column="40" selection-start-line="119" selection-start-column="40" selection-end-line="119" selection-end-column="40" />
               <folding>
-                <element signature="e#120#126#0" expanded="true" />
+                <element signature="e#311#335#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,8 +106,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -118,15 +132,20 @@
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/menu.html" />
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/footer.html" />
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/static/HomeTaskDJ02/css/styles.css" />
-        <option value="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" />
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/views.py" />
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/urls.py" />
-        <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/base.html" />
-        <option value="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" />
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/index.html" />
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/about.html" />
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/contact.html" />
         <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/services.html" />
+        <option value="$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/base.html" />
+        <option value="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" />
+        <option value="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" />
+        <option value="$PROJECT_DIR$/ZeroCoder/lessonDJ03/admin.py" />
+        <option value="$PROJECT_DIR$/ZeroCoder/lessonDJ03/urls.py" />
+        <option value="$PROJECT_DIR$/ZeroCoder/lessonDJ03/models.py" />
+        <option value="$PROJECT_DIR$/ZeroCoder/lessonDJ03/views.py" />
+        <option value="$PROJECT_DIR$/ZeroCoder/lessonDJ03/templates/lessonDJ03/news.html" />
       </list>
     </option>
   </component>
@@ -158,41 +177,29 @@
               <item name="Module-Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module-Django" type="462c0819:PsiDirectoryNode" />
               <item name="ZeroCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeTaskDJ02" type="462c0819:PsiDirectoryNode" />
+              <item name="lessonDJ03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Module-Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module-Django" type="462c0819:PsiDirectoryNode" />
               <item name="ZeroCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeTaskDJ02" type="462c0819:PsiDirectoryNode" />
+              <item name="lessonDJ03" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module-Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module-Django" type="462c0819:PsiDirectoryNode" />
+              <item name="ZeroCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="lessonDJ03" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Module-Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module-Django" type="462c0819:PsiDirectoryNode" />
               <item name="ZeroCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeTaskDJ02" type="462c0819:PsiDirectoryNode" />
+              <item name="lessonDJ03" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeTaskDJ02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Module-Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module-Django" type="462c0819:PsiDirectoryNode" />
-              <item name="ZeroCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="lessonDJ02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Module-Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module-Django" type="462c0819:PsiDirectoryNode" />
-              <item name="ZeroCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="lessonDJ02" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Module-Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module-Django" type="462c0819:PsiDirectoryNode" />
-              <item name="ZeroCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="ZeroCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="lessonDJ03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,6 +215,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\MY PROGRAMS\GitHub\Module-Django\ZeroCoder\lessonDJ03\templates\lessonDJ03" />
+      <recent name="F:\MY PROGRAMS\GitHub\Module-Django\ZeroCoder\lessonDJ03\templates" />
       <recent name="F:\MY PROGRAMS\GitHub\Module-Django\ZeroCoder\HomeTaskDJ02\templates\HomeTaskDJ02" />
       <recent name="F:\MY PROGRAMS\GitHub\Module-Django\ZeroCoder\lessonDJ02\static\lessonDJ02\img" />
       <recent name="F:\MY PROGRAMS\GitHub\Module-Django\ZeroCoder\lessonDJ02\static\lessonDJ02\css" />
@@ -396,30 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <element signature="e#647#679#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ02/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -434,16 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -478,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -496,6 +464,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/templates/HomeTaskDJ02/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/HomeTaskDJ02/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="1" lean-forward="true" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#647#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="119" column="40" selection-start-line="119" selection-start-column="40" selection-end-line="119" selection-end-column="40" />
+          <folding>
+            <element signature="e#311#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/migrations/0002_news_post_hometask_alter_news_post_options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZeroCoder/lessonDJ03/templates/lessonDJ03/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>

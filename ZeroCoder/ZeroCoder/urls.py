@@ -22,7 +22,10 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('HomeTaskDJ02.urls')),
-    #path('', include('lessonDJ02.urls')),
-    #path('', include('lessonDJ01.urls'))
+    path('', include('lessonDJ02.urls')),
+    path('lessonDJ01/', include('lessonDJ01.urls')),
+    path('HomeTaskDJ02/', include('HomeTaskDJ02.urls')),
+    path('lessonDJ03/', include('lessonDJ03.urls')),
+
+
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
